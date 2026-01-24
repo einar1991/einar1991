@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi there, I'm Einar 👋
 
+I'm a backend developer and I'm seeking my first job. Don't mind if it's gonna be testing or something else.
+
+### Check out my pet projects
+
+My pet projects may be small in scale, but I've used them to master technologies and best practices from large-scale, professional development.
+- NightCoder | [Live](...) | [Code](https://github.com/einar1991/NightCoder)
+- ImageTagAnalyzer | [Live](...) | [Code](https://github.com/einar1991/ImageTagAnalyzer)
 <!--
 **einar1991/einar1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
