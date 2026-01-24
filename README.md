@@ -7,6 +7,9 @@ I'm a backend developer and I'm seeking my first job. Don't mind if it's gonna b
 My pet projects may be small in scale, but I've used them to master technologies and best practices from large-scale, professional development.
 - NightCoder | [Live](...) | [Code](https://github.com/einar1991/NightCoder)
 - ImageTagAnalyzer | [Live](...) | [Code](https://github.com/einar1991/ImageTagAnalyzer)
+
+
+*With a little more time, who knows, we might have even become friends)*
 <!--
 **einar1991/einar1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
