@@ -1,6 +1,6 @@
 ## Hi there, I'm Einar 👋
 
-Python developer seeking my first role in backend, full-stack, or testing (automated/manual).
+Python developer seeking my first role in backend, fullstack, or testing (automated/manual).
 
 **Main tech stack:** `FastAPI`, `Django`, `PostgreSQL`, `Docker`  
 **Traits:** Quick learner, detail-oriented, experienced with Git & teamwork.
