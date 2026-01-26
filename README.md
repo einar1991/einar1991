@@ -15,6 +15,6 @@ My pet projects may be small in scale, but I've used them to master technologies
 | NightCoder | [Link](http://pet-nightcoder.rdeaps.com/) | [Repo](https://github.com/einar1991/NightCoder) | SOLID, CI/CD, testing |
 | Portfolio | [Link](einar1991.github.io) | [Repo](https://github.com/einar1991/einar1991.github.io) | Frontend, design |
 
-*Thanks for visiting, feel free to connect!*
-
-
+<p align="center">
+  <i>Thanks for visiting, feel free to connect!</i>
+</p>
