@@ -16,5 +16,5 @@ My pet projects may be small in scale, but I've used them to master technologies
 | Portfolio | [Link](einar1991.github.io) | [Repo](https://github.com/einar1991/einar1991.github.io) | Frontend, design |
 
 <p align="center">
-  <i>Thanks for visiting, feel free to connect!</i>
+  <i>Thanks for visiting, feel free to connect with me on <a href="https://linkedin.com/in/einar-björnsson">LinkedIn</a>!</i>
 </p>
