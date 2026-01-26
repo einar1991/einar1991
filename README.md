@@ -1,26 +1,20 @@
 ## Hi there, I'm Einar 👋
 
-I'm a backend developer and I'm seeking my first job. Don't mind if it's gonna be testing or something else.
+Python developer seeking my first role in backend, full-stack, or testing (automated/manual).
+
+**Main tech stack:** `FastAPI`, `Django`, `PostgreSQL`, `Docker`  
+**Traits:** Quick learner, detail-oriented, experienced with Git & teamwork.
 
 ### Check out my pet projects
 
 My pet projects may be small in scale, but I've used them to master technologies and best practices from large-scale, professional development.
-- NightCoder | [Live](...) | [Code](https://github.com/einar1991/NightCoder)
-- ImageTagAnalyzer | [Live](...) | [Code](https://github.com/einar1991/ImageTagAnalyzer)
+
+| Project | Live | Code | Main focus |
+|-------------|-------------|-------------|-------------|
+| ImageTagAnalyzer | [Link](http://imagetaganalyzer.rdeaps.com/) | [Repo](https://github.com/einar1991/ImageTagAnalyzer) | Microservices, async |
+| NightCoder | [Link](http://pet-nightcoder.rdeaps.com/) | [Repo](https://github.com/einar1991/NightCoder) | SOLID, CI/CD, testing |
+| Portfolio | [Link](einar1991.github.io) | [Repo](https://github.com/einar1991/einar1991.github.io) | Frontend, design |
+
+*Thanks for visiting, feel free to connect!*
 
 
-*With a little more time, who knows, we might have even become friends)*
-<!--
-**einar1991/einar1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
