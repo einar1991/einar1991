@@ -1,4 +1,4 @@
-## Hi there, I'm Einar 👋
+## Hi there, I'm Einar 👋 | [Portfolio](https://einar1991.github.io)
 
 Python developer seeking my first role in backend, fullstack, or testing (automated/manual).
 
